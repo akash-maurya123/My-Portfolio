@@ -1,7 +1,7 @@
 🚀 My Portfolio
 Welcome to my personal portfolio website, where I showcase my skills, projects, and experience.
 
-🔗 Live Link: akash-maurya-portfolio.netlify.app
+🔗 Live Link: https://akash-maurya-portfolio.netlify.app
 
 📌 About the Project
 This portfolio is built using HTML, CSS, JavaScript, and Bootstrap, featuring:
